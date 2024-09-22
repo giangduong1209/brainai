@@ -3,8 +3,8 @@ import Heading from "./Heading";
 import { benefits } from "../constants";
 import Arrow from "../assets/svg/Arrow";
 import { GradientLight } from "./design/Benefits";
-import ClipPath from "../assets/svg/ClipPath";
 
+import ClipPath from "../assets/svg/ClipPath";
 const Benefits = () => {
   return (
     <Section id="features">
