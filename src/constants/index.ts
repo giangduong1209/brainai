@@ -1,43 +1,43 @@
-import yourlogo from "./yourlogo.svg";
-import homeSmile from "./home-smile.svg";
-import file02 from "./file-02.svg";
-import searchMd from "./search-md.svg";
-import plusSquare from "./plus-square.svg";
-import recording03 from "./recording-03.svg";
-import recording01 from "./recording-01.svg";
-import disc02 from "./disc-02.svg";
-import chromecast from "./chrome-cast.svg";
-import sliders04 from "./sliders-04.svg";
+import yourlogo from "../assets/yourlogo.svg";
+import homeSmile from "../assets/home-smile.svg";
+import file02 from "../assets/file-02.svg";
+import searchMd from "../assets/search-md.svg";
+import plusSquare from "../assets/plus-square.svg";
+import recording03 from "../assets/recording-03.svg";
+import recording01 from "../assets/recording-01.svg";
+import disc02 from "../assets/disc-02.svg";
+import chromecast from "../assets/chrome-cast.svg";
+import sliders04 from "../assets/sliders-04.svg";
 
-import discord from "./collaboration/discord.png";
-import figma from "./collaboration/figma.png";
-import framer from "./collaboration/framer.png";
-import notion from "./collaboration/notion.png";
-import photoshop from "./collaboration/photoshop.png";
-import protopie from "./collaboration/protopie.png";
-import raindrop from "./collaboration/raindrop.png";
-import slack from "./collaboration/slack.png";
+import discord from "../assets/collaboration/discord.png";
+import figma from "../assets/collaboration/figma.png";
+import framer from "../assets/collaboration/framer.png";
+import notion from "../assets/collaboration/notion.png";
+import photoshop from "../assets/collaboration/photoshop.png";
+import protopie from "../assets/collaboration/protopie.png";
+import raindrop from "../assets/collaboration/raindrop.png";
+import slack from "../assets/collaboration/slack.png";
 
-import roadmap1 from "./roadmap/image-1.png";
-import roadmap2 from "./roadmap/image-2.png";
-import roadmap3 from "./roadmap/image-3.png";
-import roadmap4 from "./roadmap/image-4.png";
+import roadmap1 from "../assets/roadmap/image-1.png";
+import roadmap2 from "../assets/roadmap/image-2.png";
+import roadmap3 from "../assets/roadmap/image-3.png";
+import roadmap4 from "../assets/roadmap/image-4.png";
 
-import notification2 from "./notification/image-2.png";
-import notification3 from "./notification/image-3.png";
-import notification4 from "./notification/image-4.png";
+import notification2 from "../assets/notification/image-2.png";
+import notification3 from "../assets/notification/image-3.png";
+import notification4 from "../assets/notification/image-4.png";
 
-import benefitIcon1 from "./benefits/icon-1.svg";
-import benefitIcon2 from "./benefits/icon-2.svg";
-import benefitIcon3 from "./benefits/icon-3.svg";
-import benefitIcon4 from "./benefits/icon-4.svg";
-import benefitImage2 from "./benefits/image-2.png";
+import benefitIcon1 from "../assets/benefits/icon-1.svg";
+import benefitIcon2 from "../assets/benefits/icon-2.svg";
+import benefitIcon3 from "../assets/benefits/icon-3.svg";
+import benefitIcon4 from "../assets/benefits/icon-4.svg";
+import benefitImage2 from "../assets/benefits/image-2.png";
 
-import discordBlack from "./socials/discord.svg";
-import facebook from "./socials/facebook.svg";
-import instagram from "./socials/instagram.svg";
-import telegram from "./socials/telegram.svg";
-import twitter from "./socials/twitter.svg";
+import discordBlack from "../assets/socials/discord.svg";
+import facebook from "../assets/socials/facebook.svg";
+import instagram from "../assets/socials/instagram.svg";
+import telegram from "../assets/socials/telegram.svg";
+import twitter from "../assets/socials/twitter.svg";
 
 export const navigation = [
   {
