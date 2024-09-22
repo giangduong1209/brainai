@@ -27,25 +27,21 @@ const Button = ({
 
   const spanClasses = "relative z-10";
 
-  const renderButton = () => {
-    return (
-      <button className={classes} onClick={onClick}>
-        <span className={spanClasses}>{children}</span>
-        {ButtonSvg(white)}
-      </button>
-    );
-  };
-
-  const renderLink = () => {
+  if (href) {
     return (
       <a href={href} className={classes}>
         <span className={spanClasses}>{children}</span>
         {ButtonSvg(white)}
       </a>
     );
-  };
+  }
 
-  return href ? renderLink() : renderButton();
+  return (
+    <button className={classes} onClick={onClick}>
+      <span className={spanClasses}>{children}</span>
+      {ButtonSvg(white)}
+    </button>
+  );
 };
 
 export default Button;

@@ -3,6 +3,7 @@ import Benefits from "./components/Benefits.tsx";
 import Colaboration from "./components/Colaboration.tsx";
 import Header from "./components/Header.tsx";
 import Hero from "./components/Hero.tsx";
+import Pricing from "./components/Pricing.tsx";
 import Servives from "./components/Servives.tsx";
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <Benefits />
         <Colaboration />
         <Servives />
+        <Pricing />
       </div>
       <ButtonGradient />
     </>
