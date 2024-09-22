@@ -1,4 +1,4 @@
-import React, { ReactNode } from "react";
+import { ReactNode } from "react";
 import SectionSvg from "../assets/svg/SectionSvg";
 
 interface ISection {
