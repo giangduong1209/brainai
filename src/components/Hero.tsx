@@ -1,4 +1,6 @@
-import { curve, heroBackground, robot } from "../assets";
+import curve from "../assets/hero/curve.png";
+import heroBackground from "../assets/hero/hero-background.jpg";
+import robot from "../assets/hero/robot.jpg";
 import Section from "./Section";
 import Button from "./ui/Button";
 import { BackgroundCircles, BottomLine, Gradient } from "./design/Hero";

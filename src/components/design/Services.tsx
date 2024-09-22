@@ -1,5 +1,7 @@
-import { brainwaveWhiteSymbol, gradient, play } from "../../assets";
 import ChatBubbleWing from "../../assets/svg/ChatBubbleWing";
+import brainwaveWhiteSymbol from "../../assets/brainwave-symbol-white.svg";
+import gradient from "../../assets/gradient.png";
+import play from "../../assets/play.svg";
 
 export const Gradient = () => {
   return (

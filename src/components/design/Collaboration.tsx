@@ -1,4 +1,5 @@
-import { curve1, curve2 } from "../../assets";
+import curve1 from "../../assets/collaboration/curve-1.svg";
+import curve2 from "../../assets/collaboration/curve-2.svg";
 
 export const RightCurve = () => {
   return (

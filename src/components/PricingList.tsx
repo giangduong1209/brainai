@@ -1,6 +1,6 @@
-import { check } from "../assets";
 import { pricing } from "../constants";
 import Button from "./ui/Button";
+import check from "../assets/check.svg";
 
 const PricingList = () => {
   return (

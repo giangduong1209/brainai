@@ -1,5 +1,5 @@
 import { notificationImages } from "../constants";
-import { notification1 } from "../assets";
+import notification1 from "../assets/notification/image-1.png";
 
 const Notification = ({
   className,

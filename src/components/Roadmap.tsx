@@ -1,9 +1,11 @@
-import { check2, grid, loading1 } from "../assets";
 import { roadmap } from "../constants";
 import Heading from "./Heading";
 import Section from "./Section";
 import TagLine from "./TagLine";
 import Button from "./ui/Button";
+import check2 from "../assets/check-02.svg";
+import grid from "../assets/grid.png";
+import loading1 from "../assets/loading-01.svg";
 
 export const Roadmap = () => {
   return (
